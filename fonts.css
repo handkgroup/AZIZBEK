@@ -1,12 +1,12 @@
 @font-face {
     font-family: N4;
-    src: url(../fonts/NotoSansJP-Regular.ttf);
+    src: url(NotoSansJP-Regular.ttf);
 }
 @font-face {
     font-family: N5;
-    src: url(../fonts/NotoSansJP-Medium.ttf);
+    src: url(NotoSansJP-Medium.ttf);
 }
 @font-face {
     font-family: N7;
-    src: url(../fonts/NotoSansJP-Bold.ttf);
+    src: url(NotoSansJP-Bold.ttf);
 }
